@@ -11,3 +11,6 @@ I2C supports multiple masters and slaves on the same bus, which makes it ideal f
 Overall, the I2C protocol is a simple and widely used protocol that enables communication between electronic devices in various applications, such as sensors, displays, and memory devices.
 
 ---
+Copyright© Mohammed Abdul Haq (https://www.linkedin.com/in/mohammed-abdul-haq-717678142/)
+
+RTL-Code Credit: Udemy course "SystemVerilog for Verification Part 2 : Projects"
